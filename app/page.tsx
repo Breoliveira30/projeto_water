@@ -13,19 +13,19 @@ import { ImageCarousel } from "@/components/image-carousel"
 // Images for the carousel
 const carouselImages = [
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/sensor.png",
     alt: "Conservação de água em casa",
   },
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/instalacao.png",
     alt: "Tecnologia para monitoramento de água",
   },
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/monitoramento.png",
     alt: "Economia de água no dia a dia",
   },
   {
-    src: "/placeholder.svg?height=400&width=600",
+    src: "/captacao.png",
     alt: "Sustentabilidade hídrica",
   },
 ]
