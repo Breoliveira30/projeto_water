@@ -229,14 +229,14 @@ export default function Sobre() {
                     <Mail className="h-6 w-6 text-primary" />
                     <div>
                       <h3 className="font-medium">Email</h3>
-                      <p>brennooliveira@waterguardiansolution.com.br</p>
+                      <p>BrennoOliveirq@outlook.com</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-3">
                     <Phone className="h-6 w-6 text-primary" />
                     <div>
                       <h3 className="font-medium">Telefone</h3>
-                      <p>(61) 9876-5432</p>
+                      <p>(61) 99859-0309</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-3">
