@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "WaterGuardian Solution",
   description: "Monitorando e protegendo o recurso mais precioso do nosso planeta",
-    generator: 'v0.dev'
+    generator: 'Water'
 }
 
 export default function RootLayout({
